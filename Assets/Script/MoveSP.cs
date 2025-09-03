@@ -6,6 +6,7 @@ public class MoveSP : MonoBehaviour
     private GameObject selectobject;
     private bool mvchck = false;
     Collider2D hit;
+    
 
     void Update()
     {
@@ -45,4 +46,6 @@ public class MoveSP : MonoBehaviour
             selectobject.transform.position = mousePos;
         }
     }
+
+    
 }
