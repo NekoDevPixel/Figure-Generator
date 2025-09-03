@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "MoveShapes.sln"
+    "dotnet.defaultSolution": "Figure-Generator.sln"
 }

@@ -6,7 +6,12 @@ public class MoveSP : MonoBehaviour
     private GameObject selectobject;
     private bool mvchck = false;
     Collider2D hit;
-    
+
+
+    void Start()
+    {
+        
+    }
 
     void Update()
     {
